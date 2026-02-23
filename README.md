@@ -1,12 +1,12 @@
 # Hidden Markov Model (HMM) – Baum Welch Algorithm
 
-## 👨‍🎓 Student Details
+##  Student Details
 - **Name:** Nabeel T
 - **University Register Number:** LTCR24CS075
 
 ---
 
-## 📌 Assignment Description
+##  Assignment Description
 
 This assignment implements a **Hidden Markov Model (HMM)** using the **Baum–Welch Algorithm**.
 
@@ -29,7 +29,7 @@ This implementation is provided as a **localhost web application using Streamlit
 
 ---
 
-## 🧠 What is Hidden Markov Model?
+##  What is Hidden Markov Model?
 
 A Hidden Markov Model (HMM) is a statistical model used to represent systems that:
 
