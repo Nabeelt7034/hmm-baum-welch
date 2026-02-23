@@ -50,6 +50,15 @@ HMM is widely used in:
 
 ### Step 1: Clone the Repository
 
-```bash
+
 git clone https://github.com/Nabeelt7034/hmm-baum-welch.git
+
 cd hmm-baum-welch
+
+
+### Step 2: Install Required Packages
+pip install -r requirements.txt
+
+### Step  3: Run the Application
+streamlit run app.py
+
